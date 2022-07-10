@@ -86,7 +86,7 @@ position: relative;
 }
 
 
-.clock .hand.hour {
+.clock .hand .hour {
     width: 10px; 
     height: 35%;
     background-color: black;
