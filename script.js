@@ -1,4 +1,4 @@
-setInterval(setClock, 1000) // call every 1000 miliseconds
+setInterval(setClock, 1000) // call every 1000 miliseconds = 1 sec
 
 const hourHand = document.querySelector('[data-hour-hand]') // get hands of the clock
 const minuteHand = document.querySelector('[data-minute-hand]')
@@ -19,5 +19,4 @@ function setRotation(element, rotationRatio) { //setting ratio to hand on the cl
 }
 
 setClock()
-Footer
 
