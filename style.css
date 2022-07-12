@@ -9,7 +9,7 @@ body {
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background : linear-gradient(to right, white, gold);
+    background : linear-gradient(to right, rgb(3, 3, 128), gold);
 }
 
 .clock {
