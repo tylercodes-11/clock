@@ -31,6 +31,9 @@ position: relative;
     font-size: 1.5rem;
 }
 
+
+/* numbers degrees on circle clock below */
+
 .clock .number1 { --rotation: 30deg; }
 .clock .number2 { --rotation: 60deg; }
 .clock .number3 { --rotation: 90deg; }
