@@ -30,4 +30,4 @@ Welcome to the Analog Clock Project repository! This project showcases the creat
 
 Thank you for exploring my Analog Clock Project! We hope you enjoy watching time pass on this virtual clock. If you have questions or suggestions, please open an issue or contact me.
 
-[Live Demo](https://tylercodes-11.github.io/analog-clock/) 
+[Live Demo](https://tylercodes-11.github.io/clock/) 
