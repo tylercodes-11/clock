@@ -18,5 +18,5 @@ function setRotation(element, rotationRatio) { //setting ratio to hand on the cl
   element.style.setProperty('--rotation', rotationRatio * 360) // around 360 degree.
 }
 
-setClock()
+setClock();
 
